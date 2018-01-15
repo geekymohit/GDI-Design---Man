@@ -1,0 +1,10 @@
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\bin\Debug\GDI Practice.exe.config
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\bin\Debug\GDI Practice.exe
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\bin\Debug\GDI Practice.pdb
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\obj\Debug\GDI Practice.csprojResolveAssemblyReference.cache
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\obj\Debug\GDI_Practice.Form1.resources
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\obj\Debug\GDI_Practice.Properties.Resources.resources
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\obj\Debug\GDI Practice.csproj.GenerateResource.Cache
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\obj\Debug\GDI Practice.csproj.CoreCompileInputs.cache
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\obj\Debug\GDI Practice.exe
+F:\Coding\Visual Studio\GDI Practice\GDI Practice\obj\Debug\GDI Practice.pdb
